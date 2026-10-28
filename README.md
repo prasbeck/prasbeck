@@ -1,6 +1,6 @@
 # Hi, I'm Prashant 👋
 
-Student at IIT Madras who builds **backend APIs** — auth, access control, and real-time services — with some machine learning on the side.
+Working at **Signzy Technologies** · IIT Madras. I build **backend APIs** — auth, access control, and real-time services — with some machine learning on the side.
 
 ## What I'm working on
 
