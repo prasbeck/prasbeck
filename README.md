@@ -1,9 +1,10 @@
 # Hi, I'm Prashant 👋
 
-Working at **Signzy Technologies** · IIT Madras. I build **backend APIs** — auth, access control, and real-time services — with some machine learning on the side.
+Software Development Engineer at **Signzy Technologies** with 2.5 years of experience building **underwriting products**. Studied at IIT Madras. I build **backend APIs** — auth, access control, and real-time services — with some machine learning on the side.
 
 ## What I'm working on
 
+- 🏦 **At work** — underwriting products at Signzy Technologies
 - 🔐 **Backend & APIs** — Fastify (TypeScript/Node), Go `net/http`, PostgreSQL, MongoDB, JWT auth
 - 📱 **Frontend & mobile** — React, React Native (Expo), Angular
 - 🤖 **ML** — scikit-learn regression, NLP sentiment analysis, CNNs with Keras
