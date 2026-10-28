@@ -1,6 +1,6 @@
 # Hi, I'm Prashant 👋
 
-Software Development Engineer at **Signzy Technologies** with 2.5 years of experience building **underwriting products**. Studied at IIT Madras. I build **backend APIs** — auth, access control, and real-time services — with some machine learning on the side.
+Software Development Engineer at **Signzy Technologies** building **underwriting products** since 2024. Studied at IIT Madras. I build **backend APIs** — auth, access control, and real-time services — with some machine learning on the side.
 
 ## What I'm working on
 
